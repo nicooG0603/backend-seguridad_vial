@@ -1,61 +1,61 @@
-interseccion,fecha,hora_inicio,hora_fin,vehiculos_contados,peatones_contados,infracciones_cinturon,infracciones_celular,infracciones_senaletica,infracciones_giro
-"14 la fama / Eduardo Frei Montalva",2026-06-15,07:00,07:15,359,68,24,33,34,27
-"AV Dorsal / Bravo de Sarabia",2026-06-15,07:30,07:45,346,22,25,11,25,29
-"Av Balmaceda / Aníbal Montt",2026-06-15,07:45,08:00,253,46,12,3,8,9
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-15,08:00,08:15,329,24,16,12,14,20
-"Av Dorsal / Av Domingo Santa María",2026-06-15,08:15,08:30,382,36,29,9,16,14
-"Av Dorsal / Av Domingo Santa María",2026-06-15,12:30,12:45,445,38,36,26,32,37
-"Av Balmaceda / Aníbal Montt",2026-06-15,13:00,13:15,225,24,17,6,13,10
-"14 la fama / Eduardo Frei Montalva",2026-06-15,13:30,13:45,290,21,22,27,25,37
-"AV Dorsal / Bravo de Sarabia",2026-06-15,16:00,16:15,234,9,36,3,13,37
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-15,16:30,16:45,489,44,64,31,17,18
-"Av Balmaceda / Aníbal Montt",2026-06-15,17:30,17:45,303,44,24,9,13,12
-"Av Dorsal / Av Domingo Santa María",2026-06-15,17:30,17:45,496,87,32,21,44,40
-"14 la fama / Eduardo Frei Montalva",2026-06-15,17:45,18:00,500,60,67,47,45,66
-"AV Dorsal / Bravo de Sarabia",2026-06-15,18:30,18:45,456,43,51,9,32,57
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-15,19:00,19:15,492,93,36,25,22,15
-"14 la fama / Eduardo Frei Montalva",2026-06-16,07:15,07:30,386,83,51,14,36,55
-"Av Balmaceda / Aníbal Montt",2026-06-16,07:15,07:30,244,45,10,5,10,7
-"Av Dorsal / Av Domingo Santa María",2026-06-16,07:15,07:30,376,65,20,9,11,21
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-16,07:15,07:30,349,71,31,9,16,19
-"AV Dorsal / Bravo de Sarabia",2026-06-16,07:15,07:30,284,19,17,16,22,18
-"Av Balmaceda / Aníbal Montt",2026-06-16,12:00,12:15,182,37,11,9,8,4
-"AV Dorsal / Bravo de Sarabia",2026-06-16,12:30,12:45,301,40,21,16,26,25
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-16,12:45,13:00,305,64,28,16,14,14
-"14 la fama / Eduardo Frei Montalva",2026-06-16,13:15,13:30,346,44,32,24,34,21
-"Av Dorsal / Av Domingo Santa María",2026-06-16,13:45,14:00,397,58,45,28,25,19
-"Av Dorsal / Av Domingo Santa María",2026-06-16,17:00,17:15,500,37,44,22,29,44
-"Av Balmaceda / Aníbal Montt",2026-06-16,17:15,17:30,304,29,18,10,17,21
-"14 la fama / Eduardo Frei Montalva",2026-06-16,17:30,17:45,452,58,58,16,26,34
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-16,17:45,18:00,546,105,29,8,31,40
-"AV Dorsal / Bravo de Sarabia",2026-06-16,18:30,18:45,414,42,44,11,23,27
-"AV Dorsal / Bravo de Sarabia",2026-06-22,08:00,08:15,385,39,46,18,21,41
-"Av Balmaceda / Aníbal Montt",2026-06-22,08:15,08:30,257,37,22,9,6,7
-"Av Dorsal / Av Domingo Santa María",2026-06-22,08:30,08:45,513,91,32,18,21,29
-"14 la fama / Eduardo Frei Montalva",2026-06-22,08:30,08:45,330,23,32,16,25,32
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-22,08:45,09:00,451,68,32,7,11,26
-"AV Dorsal / Bravo de Sarabia",2026-06-22,13:30,13:45,271,58,27,14,20,9
-"Av Dorsal / Av Domingo Santa María",2026-06-22,13:45,14:00,365,74,19,21,29,12
-"Av Balmaceda / Aníbal Montt",2026-06-22,13:45,14:00,229,49,8,6,11,13
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-22,13:45,14:00,311,54,15,9,15,11
-"14 la fama / Eduardo Frei Montalva",2026-06-22,17:15,17:30,453,27,75,23,42,64
-"AV Dorsal / Bravo de Sarabia",2026-06-22,17:15,17:30,458,39,62,11,18,35
-"Av Balmaceda / Aníbal Montt",2026-06-22,17:45,18:00,316,39,23,6,18,21
-"Av Dorsal / Av Domingo Santa María",2026-06-22,17:45,18:00,585,59,68,31,32,18
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-22,18:00,18:15,556,34,41,20,14,28
-"14 la fama / Eduardo Frei Montalva",2026-06-22,18:15,18:30,586,105,11,9,25,35
-"AV Dorsal / Bravo de Sarabia",2026-06-23,07:15,07:30,277,49,22,21,21,27
-"Av Dorsal / Av Domingo Santa María",2026-06-23,07:30,07:45,469,52,42,28,28,43
-"Av Balmaceda / Aníbal Montt",2026-06-23,07:45,08:00,232,40,13,7,6,13
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-23,08:00,08:15,372,52,28,18,12,8
-"14 la fama / Eduardo Frei Montalva",2026-06-23,08:30,08:45,297,49,31,15,32,35
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-23,12:15,12:30,400,40,16,12,20,15
-"Av Balmaceda / Aníbal Montt",2026-06-23,12:15,12:30,180,33,14,6,7,13
-"Av Dorsal / Av Domingo Santa María",2026-06-23,13:00,13:15,370,61,39,9,32,18
-"AV Dorsal / Bravo de Sarabia",2026-06-23,13:15,13:30,320,24,41,22,13,30
-"14 la fama / Eduardo Frei Montalva",2026-06-23,13:30,13:45,325,36,49,23,18,36
-"Av Dorsal / AV PDTE EDUARDO FREI MONTALVA",2026-06-23,17:15,17:30,496,49,39,6,29,25
-"AV Dorsal / Bravo de Sarabia",2026-06-23,17:45,18:00,453,90,31,26,24,23
-"14 la fama / Eduardo Frei Montalva",2026-06-23,18:45,19:00,489,77,50,34,19,34
-"Av Balmaceda / Aníbal Montt",2026-06-23,18:45,19:00,308,51,29,12,18,21
-"Av Dorsal / Av Domingo Santa María",2026-06-23,18:45,19:00,502,32,36,24,40,17
+interseccion,fecha,hora_inicio,hora_fin,bloque_horario,vehiculos_contados,peatones_contados,infracciones_cinturon,infracciones_celular,infracciones_senaletica,infracciones_giro
+Av Dorsal / Av Domingo Santa María,2026-06-08,07:31,07:46,mañana,469,52,42,28,28,43
+14 la fama / Eduardo Frei Montalva,2026-06-08,13:03,13:18,tarde,325,36,49,23,18,36
+14 la fama / Eduardo Frei Montalva,2026-06-08,17:48,18:03,noche,452,58,58,16,26,34
+AV Dorsal / Bravo de Sarabia,2026-06-08,18:39,18:54,noche,453,90,31,26,24,23
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-09,07:37,07:52,mañana,329,24,16,12,14,20
+AV Dorsal / Bravo de Sarabia,2026-06-09,08:24,08:39,mañana,385,39,46,18,21,41
+Av Dorsal / Av Domingo Santa María,2026-06-09,13:20,13:35,tarde,397,58,45,28,25,19
+Av Dorsal / Av Domingo Santa María,2026-06-09,18:13,18:28,noche,500,37,44,22,29,44
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-10,08:38,08:53,mañana,372,52,28,18,12,8
+Av Balmaceda / Aníbal Montt,2026-06-10,12:36,12:51,tarde,180,33,14,6,7,13
+AV Dorsal / Bravo de Sarabia,2026-06-10,16:02,16:17,noche,456,43,51,9,32,57
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-10,17:21,17:36,noche,489,44,64,31,17,18
+Av Balmaceda / Aníbal Montt,2026-06-11,08:19,08:34,mañana,232,40,13,7,6,13
+Av Dorsal / Av Domingo Santa María,2026-06-11,12:35,12:50,tarde,365,74,19,21,29,12
+AV Dorsal / Bravo de Sarabia,2026-06-11,13:31,13:46,tarde,320,24,41,22,13,30
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-11,17:32,17:47,noche,496,49,39,6,29,25
+AV Dorsal / Bravo de Sarabia,2026-06-12,07:25,07:40,mañana,284,19,17,16,22,18
+Av Balmaceda / Aníbal Montt,2026-06-12,08:19,08:34,mañana,244,45,10,5,10,7
+Av Dorsal / Av Domingo Santa María,2026-06-12,12:42,12:57,tarde,445,38,36,26,32,37
+14 la fama / Eduardo Frei Montalva,2026-06-12,17:09,17:24,noche,489,77,50,34,19,34
+14 la fama / Eduardo Frei Montalva,2026-06-12,18:45,19:00,noche,586,105,11,9,25,35
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-15,08:20,08:35,mañana,451,68,32,7,11,26
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-15,13:06,13:21,tarde,305,64,28,16,14,14
+14 la fama / Eduardo Frei Montalva,2026-06-15,18:49,19:04,noche,500,60,67,47,45,66
+Av Balmaceda / Aníbal Montt,2026-06-16,07:28,07:43,mañana,257,37,22,9,6,7
+Av Dorsal / Av Domingo Santa María,2026-06-16,13:03,13:18,tarde,370,61,39,9,32,18
+Av Dorsal / Av Domingo Santa María,2026-06-16,16:07,16:22,noche,585,59,68,31,32,18
+Av Balmaceda / Aníbal Montt,2026-06-16,18:32,18:47,noche,304,29,18,10,17,21
+Av Dorsal / Av Domingo Santa María,2026-06-17,07:33,07:48,mañana,513,91,32,18,21,29
+Av Dorsal / Av Domingo Santa María,2026-06-17,08:18,08:33,mañana,376,65,20,9,11,21
+Av Balmaceda / Aníbal Montt,2026-06-17,12:27,12:42,tarde,229,49,8,6,11,13
+Av Balmaceda / Aníbal Montt,2026-06-17,16:16,16:31,noche,316,39,23,6,18,21
+AV Dorsal / Bravo de Sarabia,2026-06-18,07:11,07:26,mañana,346,22,25,11,25,29
+Av Balmaceda / Aníbal Montt,2026-06-18,12:08,12:23,tarde,225,24,17,6,13,10
+14 la fama / Eduardo Frei Montalva,2026-06-18,13:28,13:43,tarde,346,44,32,24,34,21
+Av Dorsal / Av Domingo Santa María,2026-06-18,16:33,16:48,noche,502,32,36,24,40,17
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-18,17:40,17:55,noche,492,93,36,25,22,15
+14 la fama / Eduardo Frei Montalva,2026-06-19,08:41,08:56,mañana,359,68,24,33,34,27
+Av Balmaceda / Aníbal Montt,2026-06-19,13:17,13:32,tarde,182,37,11,9,8,4
+14 la fama / Eduardo Frei Montalva,2026-06-19,16:41,16:56,noche,453,27,75,23,42,64
+14 la fama / Eduardo Frei Montalva,2026-06-22,07:10,07:25,mañana,386,83,51,14,36,55
+Av Dorsal / Av Domingo Santa María,2026-06-22,08:25,08:40,mañana,382,36,29,9,16,14
+14 la fama / Eduardo Frei Montalva,2026-06-22,13:29,13:44,tarde,290,21,22,27,25,37
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-22,17:54,18:09,noche,556,34,41,20,14,28
+Av Balmaceda / Aníbal Montt,2026-06-22,18:49,19:04,noche,308,51,29,12,18,21
+Av Balmaceda / Aníbal Montt,2026-06-23,07:49,08:04,mañana,253,46,12,3,8,9
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-23,13:23,13:38,tarde,311,54,15,9,15,11
+AV Dorsal / Bravo de Sarabia,2026-06-23,17:11,17:26,noche,234,9,36,3,13,37
+14 la fama / Eduardo Frei Montalva,2026-06-24,07:48,08:03,mañana,297,49,31,15,32,35
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-24,13:38,13:53,tarde,400,40,16,12,20,15
+Av Balmaceda / Aníbal Montt,2026-06-24,16:41,16:56,noche,303,44,24,9,13,12
+AV Dorsal / Bravo de Sarabia,2026-06-24,17:42,17:57,noche,458,39,62,11,18,35
+AV Dorsal / Bravo de Sarabia,2026-06-25,07:03,07:18,mañana,277,49,22,21,21,27
+14 la fama / Eduardo Frei Montalva,2026-06-25,08:30,08:45,mañana,330,23,32,16,25,32
+AV Dorsal / Bravo de Sarabia,2026-06-25,12:09,12:24,tarde,271,58,27,14,20,9
+Av Dorsal / Av Domingo Santa María,2026-06-25,17:22,17:37,noche,496,87,32,21,44,40
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-25,18:31,18:46,noche,546,105,29,8,31,40
+Av Dorsal / AV PDTE EDUARDO FREI MONTALVA,2026-06-26,08:22,08:37,mañana,349,71,31,9,16,19
+AV Dorsal / Bravo de Sarabia,2026-06-26,13:28,13:43,tarde,301,40,21,16,26,25
+AV Dorsal / Bravo de Sarabia,2026-06-26,17:46,18:01,noche,414,42,44,11,23,27
