@@ -334,7 +334,7 @@ def get_historico():
             JOIN dim_intersecciones di ON fo.id_interseccion = di.id_interseccion
             JOIN dim_tiempo dt ON fo.id_tiempo = dt.id_tiempo
             ORDER BY dt.fecha DESC, dt.hora_inicio DESC
-            LIMIT 50
+            LIMIT 100
         """
         cursor.execute(query)
         rows = cursor.fetchall()
@@ -406,4 +406,16 @@ def get_historico():
 
 if __name__ == '__main__':
     port = int(os.getenv('PORT', 5000))
+    
+    print("\n" + "="*70)
+    print(" 🚀 SERVIDOR API REST DE SEGURIDAD VIAL INICIADO CON ÉXITO")
+    print("="*70)
+    print(" Endpoints de la API listos para su uso:")
+    print(f"  👉 http://localhost:{port}/api/historico")
+    print(f"  👉 http://localhost:{port}/api/sla")
+    print(f"  👉 http://localhost:{port}/api/distribucion")
+    print(f"  👉 http://localhost:{port}/api/kpi_principal")
+    print(f"  👉 http://localhost:{port}/api/completitud")
+    print("="*70 + "\n")
+    
     app.run(debug=True, host='0.0.0.0', port=port)
